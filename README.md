@@ -19,16 +19,16 @@ Presentri is a mobile-based attendance and permission management application des
 ![Presentri Web Admin Dashboard](docs/screenshots/dashboard-admin.png)
 
 ### Mobile Dashboard — GTK
-![Presentri Mobile Dashboard](docs/screenshots/dashboard-gtk.jpeg)
+![Presentri Mobile Dashboard](docs/screenshots/dashboard-gtk.png)
 
 ### QR Code Attendance
-![QR Code Attendance](docs/screenshots/presensi-qr.jpeg)
+![QR Code Attendance](docs/screenshots/presensi-qr.png)
 
 ### GTK Permission Request
-![GTK Permission Request](docs/screenshots/pengajuan-izin.jpeg)
+![GTK Permission Request](docs/screenshots/pengajuan-izin.png)
 
 ### Principal Approval
-![Principal Approval](docs/screenshots/approval-kepala-sekolah.jpeg)
+![Principal Approval](docs/screenshots/approval-kepala-sekolah.png)
 
 ### Attendance Monitoring and Reports
 ![Attendance Monitoring and Reports](docs/screenshots/rekap-presensi.png)
