@@ -1,0 +1,50 @@
+.bg-purple-light {
+    background: linear-gradient(180deg, #4396c6 0%, #c4e3f3 100%) !important;
+}
+
+
+.bg-cuti-pending {
+    background-color: #c5cb48 !important; /* kuning keemasan */
+    color: white;
+}
+
+.bg-cuti-disetujui {
+    background-color: #46bea2 !important; /* hijau segar */
+    color: white;
+}
+
+.bg-cuti-ditolak {
+    background-color: #d1527e !important; /* merah elegan */
+    color: white;
+}
+
+.card-footer-custom {
+    color: #222 !important;
+    background-color: rgba(255, 255, 255, 0.3); /* opsional efek */
+}
+
+.btn-danger:hover {
+    background-color: #c82333 !important;
+    transition: background-color 0.3s ease;
+}
+
+.btn-danger:focus {
+    box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.5);
+}
+.btn-logout-outline {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: transparent;
+    color: #ff4b2b;
+    border: 2px solid #ff4b2b;
+    border-radius: 50px;
+    font-weight: 600;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-logout-outline:hover {
+    background-color: #ff4b2b;
+    color: white;
+}

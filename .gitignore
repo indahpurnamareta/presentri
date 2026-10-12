@@ -1,0 +1,46 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.jks
+*.keystore
+key.properties
+
+# Laravel
+backend/vendor/
+backend/node_modules/
+backend/storage/logs/*
+backend/storage/framework/cache/*
+backend/storage/framework/sessions/*
+backend/storage/framework/views/
+
+# Flutter
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/android/local.properties
+mobile/android/key.properties
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# User-uploaded files and personal documents
+backend/public/uploads/
+
+# Local database and backup
+backend/presensi_guru
+backend/*.sqlite
+backend/*.sqlite3
+backend/*.db
+backend/*.sql
+backend/vendor.zip
+
+# Firebase configuration - review before publishing
+mobile/android/app/google-services.json
+mobile/lib/firebase_options.dart
